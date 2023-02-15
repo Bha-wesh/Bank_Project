@@ -1,0 +1,2 @@
+this is sum of three number
+12 30
