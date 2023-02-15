@@ -1,2 +1,2 @@
-this is sum of three number
-12 30
+this are sum of three number
+6 400
