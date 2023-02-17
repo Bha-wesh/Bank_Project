@@ -1,0 +1,2 @@
+this are sum of three number
+6 400
